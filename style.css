@@ -1,0 +1,28 @@
+h1, h2, h3, h4 {
+                color: slateblue;
+                font-size: 30px;
+                margin: 0;
+                background-color: khaki;
+            }
+            h1{
+                color: coral;
+            }
+
+            .important{
+                color:darkred
+                                    /* Above makes all important class txt turn dark red in the body below */
+            }
+
+            .uppercase{
+                text-transform: uppercase;
+                color: deeppink;
+                background-color: black;
+            }
+
+            #the-one{
+                color: darkblue;
+            }
+
+            #mr-jones{
+                color: brown;
+            }
